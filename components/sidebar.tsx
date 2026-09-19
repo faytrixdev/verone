@@ -92,7 +92,7 @@ export default function Sidebar() {
     <div className="m-4 rounded-xl border border-white/10 bg-white/5 p-4">
       <p className="eyebrow text-white/50">Mode démo</p>
       <p className="mt-1.5 text-xs leading-relaxed text-white/60">
-        Recherche, qualification et classement simulateurs. Connectez Supabase pour les données réelles.
+        Recherche, qualification et classement simulateurs.
       </p>
     </div>
   )
